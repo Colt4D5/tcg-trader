@@ -45,6 +45,7 @@
 		"@oslojs/encoding": "^1.1.0",
 		"@types/node": "^22.8.6",
 		"drizzle-orm": "^0.33.0",
-		"postgres": "^3.4.4"
+		"postgres": "^3.4.4",
+		"swiper": "^11.1.14"
 	}
 }
